@@ -1,2 +1,8 @@
-# Personal-Blogging-platform-frontend
-Personal-Blogging-platform-frontend is the frontend where  I write the code in React JS to handle the API Which I before code in Personal-Blogging-platform-API. 
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
